@@ -1,0 +1,17 @@
+{
+  "uuid": "b0e3bae6-11ce-41d1-be42-669199a4bf8b",
+  "shortName": "tip_calculator",
+  "longName": "tip_calculator",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
